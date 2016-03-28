@@ -12,6 +12,6 @@
 
 ## Recipes
 
-- Hello World
+- [Hello World](/recipes/HelloWorld)
 - Simple Action Input / Button
 - Moving between screens
