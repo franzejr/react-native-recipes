@@ -3,9 +3,9 @@
 At this Example, we will know how to implement a simple action using React Native.
 Basically, click in a button and do some action.
 
-![Before][https://raw.githubusercontent.com/franzejr/react-native-recipes/master/recipes/SimpleAction/Press.png]
+![Before](Press.png)
 
-![After][Pressed.png]
+![After](Pressed.png)
 
 We are using two components:
 
