@@ -3,7 +3,7 @@
 At this Example, we will know how to implement a simple action using React Native.
 Basically, click in a button and do some action.
 
-![Before][recipes/SimpleAction/Press.png]
+![Before][https://raw.githubusercontent.com/franzejr/react-native-recipes/master/recipes/SimpleAction/Press.png]
 
 ![After][Pressed.png]
 
