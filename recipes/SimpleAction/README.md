@@ -3,9 +3,7 @@
 At this Example, we will know how to implement a simple action using React Native.
 Basically, click in a button and do some action.
 
-![Before](Press.png)
-
-![After](Pressed.png)
+**BEFORE** ![Before](Press.png) **AFTER** ![After](Pressed.png)
 
 We are using two components:
 
